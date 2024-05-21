@@ -1,0 +1,1 @@
+# meetup-19-rekognition-opencv
