@@ -10,14 +10,14 @@ Luke Thompson will demo using OpenCV and Java to perform image manipulation with
 
 6:35pm - AWS Rekognition  
 How AWS Rekognition can aid investigations into unstructured data. Digging into how pre-packaged AI APIs can help solve customer problems with large volumes of data.  
-- Luke Quinane  
+\- Luke Quinane  
 _Luke is an Enterprise Architect at Nuix. He's been developing with Java at Nuix for 15 years, and has an interest in Java performance, and digital forensics._  
 
 7:05pm - 20 minute break
 
 7:25pm - Building a Computer Vision API with AWS Lambda and OpenCV  
 We’ll walk through how to use the Java Native Interface (JNI) bindings for OpenCV to build a serverless image processing API on Amazon Web Services (AWS) platform.  
-- Luke Thompson  
+\- Luke Thompson  
 _Luke is a founder of the Sydney Java Meetup and is a passionate java coder._  
 
 8pm Event Finish  
